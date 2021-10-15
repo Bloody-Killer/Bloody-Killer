@@ -15,12 +15,6 @@
         Twitter:
             @MdRakibut
             https://twitter.com/MdRakibut
-  
-  
-  
-  
-  
-<!---
-Bloody-Killer/Bloody-Killer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        
+        Snapchat:
+                @rshafee31
